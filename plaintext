@@ -1,0 +1,21 @@
+netflix-clone/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Banner.js
+│   │   ├── Row.js
+│   │   └── MovieCard.js
+│   │
+│   ├── data/
+│   │   └── movies.js
+│   │
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+│
+├── package.json
+└── README.md
